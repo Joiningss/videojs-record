@@ -124,7 +124,7 @@
     "npm-run-all": "^4.1.5",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "opus-recorder": ">=4.1.4",
-    "recorderjs": "git+https://github.com/mattdiamond/Recorderjs.git",
+    "recorderjs": "git+https://github.com/joiningss/Recorderjs.git",
     "rimraf": "^2.6.3",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
